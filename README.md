@@ -13,3 +13,5 @@ Projeto para aprendizagem de git.
 - git commit -m "explicação"
 - git push
 - git pull
+
+...
